@@ -11,7 +11,9 @@ This project demonstrates the creation of a conversational chatbot using Node.js
 ## Usage
 1. Start the server : 
 
-`npm start`
+```
+npm start
+```
 
 2. Open Postman or any similar tool to send HTTP POST requests to `http://localhost:3000/converse`. Set the body of the request as JSON with the following structure:
 
